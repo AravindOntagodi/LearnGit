@@ -11,3 +11,5 @@ def square(x):
     return x*x
 def squareroot(x):
     return m.sqrt(x)
+def random(r):
+    return m.random(r)
